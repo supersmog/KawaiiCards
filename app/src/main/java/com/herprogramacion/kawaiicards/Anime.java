@@ -1,7 +1,7 @@
 package com.herprogramacion.kawaiicards;
 
 /**
- * Creado por Hermosa Programación
+ * Creado por Hermosa Programación prueba de ejemplo
  */
 public class Anime {
     private int imagen;
