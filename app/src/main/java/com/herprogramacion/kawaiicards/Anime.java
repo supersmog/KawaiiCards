@@ -2,6 +2,7 @@ package com.herprogramacion.kawaiicards;
 
 /**
  * Creado por Hermosa Programación prueba de ejemplo
+Fork Miguel Escalante
  */
 public class Anime {
     private int imagen;
